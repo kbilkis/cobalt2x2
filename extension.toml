@@ -1,0 +1,7 @@
+id = "cobalt2x2-theme"
+name = "Cobalt2x2"
+version = "0.0.1"
+schema_version = 1
+authors = ["Kasparas Bilkis"]
+description = "Continuation of the OG Cobalt2"
+repository = "https://github.com/kbilkis/cobalt2x2"
